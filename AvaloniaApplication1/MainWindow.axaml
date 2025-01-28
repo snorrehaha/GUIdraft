@@ -1,0 +1,26 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="1024" d:DesignHeight="720"
+        x:Class="AvaloniaApplication1.MainWindow"
+        Title="AvaloniaApplication1"
+        Width="1024"
+        Height="720"
+        >
+        
+    
+    
+    <StackPanel HorizontalAlignment="Left" Width="200" Margin="16" Spacing="10">
+        <Button x:Name="InputFolderButton" Content ="Select Input Folder" Click="OnSelectFolderClick"/>
+        <TextBlock x:Name = "InputFolder" Text="No folder selected" TextWrapping="Wrap"></TextBlock>
+        
+        <Button x:Name="OutputFolderButton" Content ="Select Output Folder" Click="OnSelectFolderClick"/>
+        <TextBlock x:Name = "OutputFolder" Text="No folder selected" TextWrapping="Wrap"></TextBlock>
+        
+        <Button x:Name="StartVerification" Content="Start Verification" Click="StartVerification_OnClick"/>
+    </StackPanel>
+    
+    
+    
+</Window>
