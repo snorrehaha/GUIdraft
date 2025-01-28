@@ -65,3 +65,4 @@
 /home/snorre/RiderProjects/AvaloniaApplication1/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.csproj.CopyComplete
 /home/snorre/RiderProjects/AvaloniaApplication1/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.genruntimeconfig.cache
 /home/snorre/RiderProjects/AvaloniaApplication1/AvaloniaApplication1/obj/Debug/net8.0/ref/AvaloniaApplication1.dll
+/home/snorre/RiderProjects/AvaloniaApplication1/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.sourcelink.json
