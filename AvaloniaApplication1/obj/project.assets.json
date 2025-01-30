@@ -1431,11 +1431,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/snorre/RiderProjects/AvaloniaApplication1/AvaloniaApplication1/AvaloniaApplication1.csproj",
+      "projectUniqueName": "/home/snorre/bachelor-thesis/GUIdraft/AvaloniaApplication1/AvaloniaApplication1.csproj",
       "projectName": "AvaloniaApplication1",
-      "projectPath": "/home/snorre/RiderProjects/AvaloniaApplication1/AvaloniaApplication1/AvaloniaApplication1.csproj",
+      "projectPath": "/home/snorre/bachelor-thesis/GUIdraft/AvaloniaApplication1/AvaloniaApplication1.csproj",
       "packagesPath": "/home/snorre/.nuget/packages/",
-      "outputPath": "/home/snorre/RiderProjects/AvaloniaApplication1/AvaloniaApplication1/obj/",
+      "outputPath": "/home/snorre/bachelor-thesis/GUIdraft/AvaloniaApplication1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/snorre/.nuget/NuGet/NuGet.Config"
@@ -1456,6 +1456,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1499,7 +1504,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.112/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/snorre/.dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -53,7 +53,7 @@ public partial class MainWindow : Window
 
         if (selectedFolder.Count >= 1)
         {
-            var folderPath = selectedFolder[0].Path.LocalPath;
+            var folderPath = selectedFolder[0].Path.AbsolutePath;
             folderPathText.Text = folderPath;
         }
         else
